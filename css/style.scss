@@ -1,0 +1,10 @@
+@import 'sass/helper';
+@import 'sass/global';
+@import 'sass/floating-label';
+@import 'sass/animation';
+
+*, html, body{
+	height:100%;
+}
+
+@import 'sass/media';
