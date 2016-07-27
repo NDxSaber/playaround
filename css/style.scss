@@ -3,8 +3,15 @@
 @import 'sass/floating-label';
 @import 'sass/animation';
 
-*, html, body{
-	height:100%;
+body{
+	background:#eee;
+}
+
+#header{
+	background:#424242;
+}
+#footer{
+	background:#424242;
 }
 
 @import 'sass/media';
